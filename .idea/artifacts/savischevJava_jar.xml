@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="savischevJava:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/savischevJava_jar</output-path>
+    <root id="archive" name="savischevJava.jar">
+      <element id="module-output" name="savischevJava" />
+    </root>
+  </artifact>
+</component>
